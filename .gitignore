@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+decrypted_image.jpg
+encrypted_image.jpg
+original.jpg.iv
+bin
+lib
+pyvenv.cfg
