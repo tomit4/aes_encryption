@@ -2,13 +2,13 @@
 
 This repository contains essential code demonstrating the encrypting and
 decrypting of a simple .jpg file using AES (Advanced Encryption
-Standard). Using the packages, (pycryptdome)[https://pypi.org/project/pycryptodome/] as well as the (Pillow)[https://pypi.org/project/pillow/], the files, `encrypt.py` as well as `decrypt.py` are utilized to encrypt and decrypt a sample `original.jpg` file for demonstration purposes.
+Standard). Using the packages, [pycryptdome](https://pypi.org/project/pycryptodome/) as well as the [Pillow](https://pypi.org/project/pillow/), the files, `encrypt.py` as well as `decrypt.py` are utilized to encrypt and decrypt a sample `original.jpg` file for demonstration purposes.
 
 This demo was copied from [this article on pyseek](https://pyseek.com/2024/05/how-to-encrypt-an-image-in-python-using-aes-algorithm/).
 
 ### Requirements
 
-You will need [python3](https://www.python.org/downloads/) as well as (pip)[https://pip.pypa.io/en/stable/installation/] installed. Additionally, in order to download this repository, you'll also need (git)[https://pip.pypa.io/en/stable/installation/] installed. Lastly, you'll also need python's [virtualenv](https://virtualenv.pypa.io/en/latest/installation.html) installed.
+You will need [python3](https://www.python.org/downloads/) as well as [pip](https://pip.pypa.io/en/stable/installation/) installed. Additionally, in order to download this repository, you'll also need [git](https://pip.pypa.io/en/stable/installation/) installed. Lastly, you'll also need python's [virtualenv](https://virtualenv.pypa.io/en/latest/installation.html) installed.
 
 ### Installation
 
