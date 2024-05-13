@@ -62,6 +62,12 @@ python decrypt.py
 This should create a `decrypted_image.jpg` file within your directory. Test it
 by opening it in an image viewer application, this <em>should</em> be visible.
 
+Once done, you can simply exit your virtual environment like so:
+
+```sh
+deactivate
+```
+
 ### Learn More
 
 - [Wikipedia on Initialization Vector](https://en.wikipedia.org/wiki/Initialization_vector)
